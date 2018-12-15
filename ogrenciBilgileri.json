@@ -1,0 +1,26 @@
+﻿{"OgrenciBilgileri":[
+	{
+	"OgrenciAdi" : "Cengizhan",
+	"OgrenciSoyadi" : "Şengür"
+	"OgrenciNumarasi" : "117444037",
+	"OgrenciBolumu" : "Bilgisayar Programcılığı"
+	},
+	{
+	"OgrenciAdi" : "Yusuf",
+	"OgrenciSoyadi" : "Aşık",
+	"OgrenciNumarasi" : "117444033",
+	"OgrenciBolumu" : "Bilgisayar Programcılığı"
+	},
+	{
+	"OgrenciAdi" : "Merhmet",
+	"OgrenciSoyadi" : "Tiryaki",
+	"OgrenciNumarasi" : "117444001",
+	"OgrenciBolumu" : "Gastronomi"
+	},
+	{
+	"OgrenciAdi" : "Gamze",
+	"OgrenciSoyadi" : "Yanık",
+	"OgrenciNumarasi" : "117444159",
+	"OgrenciBolumu" : "Grafik Tasarım"
+	}
+]}
