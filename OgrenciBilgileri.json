@@ -1,23 +1,27 @@
 ﻿{"OgrenciBilgileri":[
 	{
+	"OgrenciID" : "1",
 	"OgrenciAdi" : "Cengizhan",
 	"OgrenciSoyadi" : "Şengür",
 	"OgrenciNumarasi" : "117444037",
 	"OgrenciBolumu" : "Bilgisayar Programcılığı"
 	},
 	{
+	"OgrenciID" : "2",
 	"OgrenciAdi" : "Yusuf",
 	"OgrenciSoyadi" : "Aşık",
 	"OgrenciNumarasi" : "117444033",
 	"OgrenciBolumu" : "Bilgisayar Programcılığı"
 	},
 	{
+	"OgrenciID" : "3",
 	"OgrenciAdi" : "Merhmet",
 	"OgrenciSoyadi" : "Tiryaki",
 	"OgrenciNumarasi" : "117444001",
 	"OgrenciBolumu" : "Gastronomi"
 	},
 	{
+	"OgrenciID" : "4",
 	"OgrenciAdi" : "Gamze",
 	"OgrenciSoyadi" : "Yanık",
 	"OgrenciNumarasi" : "117444159",
